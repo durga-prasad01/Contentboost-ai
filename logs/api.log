@@ -1,0 +1,784 @@
+2026-04-29 23:07:42.594 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-29 23:14:09.883 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-29 23:14:43.597 | INFO     | backend.main:lifespan:85 - Server shutting down
+2026-04-29 23:14:46.012 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-29 23:14:51.318 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-29 23:14:53.912 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.005s
+2026-04-29 23:14:54.091 | INFO     | backend.main:log_requests:112 - GET /history - 401 - 0.002s
+2026-04-29 23:14:54.167 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.000s
+2026-04-29 23:15:07.463 | INFO     | backend.main:log_requests:112 - POST /generate - 401 - 0.002s
+2026-04-29 23:15:10.047 | INFO     | backend.main:log_requests:112 - POST /analyze - 401 - 0.003s
+2026-04-29 23:20:13.067 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.001s
+2026-04-29 23:20:13.095 | INFO     | backend.main:log_requests:112 - GET /static/js/app.js - 200 - 0.011s
+2026-04-29 23:20:13.097 | INFO     | backend.main:log_requests:112 - GET /static/css/style.css - 200 - 0.017s
+2026-04-29 23:20:13.101 | INFO     | backend.main:log_requests:112 - GET /static/js/ui.js - 200 - 0.016s
+2026-04-29 23:20:13.107 | INFO     | backend.main:log_requests:112 - GET /static/js/api.js - 200 - 0.022s
+2026-04-29 23:20:13.238 | INFO     | backend.main:log_requests:112 - GET /history - 401 - 0.001s
+2026-04-29 23:20:13.249 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.002s
+2026-04-29 23:20:17.940 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 401 - 0.001s
+2026-04-29 23:20:18.811 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 401 - 0.001s
+2026-04-29 23:20:24.858 | INFO     | backend.main:log_requests:112 - POST /register - 422 - 0.006s
+2026-04-29 23:22:08.443 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.000s
+2026-04-29 23:22:08.469 | INFO     | backend.main:log_requests:112 - GET /static/css/style.css - 200 - 0.011s
+2026-04-29 23:22:08.474 | INFO     | backend.main:log_requests:112 - GET /static/js/api.js - 200 - 0.014s
+2026-04-29 23:22:08.476 | INFO     | backend.main:log_requests:112 - GET /static/js/app.js - 200 - 0.014s
+2026-04-29 23:22:08.479 | INFO     | backend.main:log_requests:112 - GET /static/js/ui.js - 200 - 0.018s
+2026-04-29 23:22:08.634 | INFO     | backend.main:lifespan:85 - Server shutting down
+2026-04-29 23:22:10.787 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-29 23:22:10.862 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.002s
+2026-04-29 23:22:10.862 | INFO     | backend.main:log_requests:112 - GET /history - 401 - 0.001s
+2026-04-29 23:22:12.838 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 401 - 0.003s
+2026-04-29 23:22:15.852 | INFO     | backend.main:log_requests:112 - POST /register - 422 - 0.002s
+2026-04-29 23:22:16.001 | INFO     | backend.main:lifespan:85 - Server shutting down
+2026-04-29 23:22:18.039 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-29 23:22:38.837 | INFO     | backend.main:log_requests:112 - POST /token - 401 - 0.013s
+2026-04-29 23:28:52.641 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-29 23:29:19.246 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.010s
+2026-04-29 23:29:19.305 | INFO     | backend.main:log_requests:112 - GET /static/css/style.css - 200 - 0.017s
+2026-04-29 23:29:19.307 | INFO     | backend.main:log_requests:112 - GET /static/js/ui.js - 200 - 0.015s
+2026-04-29 23:29:19.310 | INFO     | backend.main:log_requests:112 - GET /static/js/api.js - 200 - 0.019s
+2026-04-29 23:29:19.312 | INFO     | backend.main:log_requests:112 - GET /static/js/app.js - 200 - 0.019s
+2026-04-29 23:29:19.779 | INFO     | backend.main:log_requests:112 - GET /history - 401 - 0.001s
+2026-04-29 23:29:19.788 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.001s
+2026-04-29 23:30:07.527 | INFO     | backend.main:log_requests:112 - POST /register - 200 - 1.242s
+2026-04-29 23:30:08.663 | INFO     | backend.main:log_requests:112 - POST /token - 200 - 1.108s
+2026-04-29 23:30:08.742 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.048s
+2026-04-29 23:31:03.018 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.008s
+2026-04-29 23:31:03.868 | ERROR    | backend.main:event_gen:333 - Streaming failed: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-04-29 23:38:08.052 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-29 23:38:08.752 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.024s
+2026-04-29 23:38:08.864 | INFO     | backend.main:log_requests:112 - GET /static/css/style.css - 304 - 0.030s
+2026-04-29 23:38:08.872 | INFO     | backend.main:log_requests:112 - GET /static/js/api.js - 304 - 0.038s
+2026-04-29 23:38:08.891 | INFO     | backend.main:log_requests:112 - GET /static/js/ui.js - 200 - 0.044s
+2026-04-29 23:38:08.895 | INFO     | backend.main:log_requests:112 - GET /static/js/app.js - 304 - 0.039s
+2026-04-29 23:38:09.158 | INFO     | backend.main:log_requests:112 - GET /history - 401 - 0.003s
+2026-04-29 23:38:09.230 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.002s
+2026-04-29 23:38:26.306 | INFO     | backend.main:log_requests:112 - POST /register - 200 - 1.471s
+2026-04-29 23:38:27.268 | INFO     | backend.main:log_requests:112 - POST /token - 200 - 0.948s
+2026-04-29 23:38:27.305 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.027s
+2026-04-29 23:38:33.475 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.006s
+2026-04-29 23:38:35.494 | ERROR    | backend.main:event_gen:333 - Streaming failed: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-04-29 23:40:34.532 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.008s
+2026-04-29 23:40:34.709 | ERROR    | backend.main:event_gen:333 - Streaming failed: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-04-29 23:40:34.810 | INFO     | backend.main:lifespan:85 - Server shutting down
+2026-04-29 23:40:44.872 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-29 23:40:55.463 | INFO     | backend.main:lifespan:85 - Server shutting down
+2026-04-29 23:41:14.001 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-29 23:41:23.978 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.008s
+2026-04-29 23:41:24.237 | INFO     | backend.main:log_requests:112 - GET /static/js/api.js - 304 - 0.019s
+2026-04-29 23:41:24.247 | INFO     | backend.main:log_requests:112 - GET /static/js/ui.js - 304 - 0.017s
+2026-04-29 23:41:24.259 | INFO     | backend.main:log_requests:112 - GET /static/js/app.js - 304 - 0.018s
+2026-04-29 23:41:24.298 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.016s
+2026-04-29 23:41:24.392 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.001s
+2026-04-29 23:41:34.358 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.036s
+2026-04-29 23:41:34.850 | ERROR    | backend.main:event_gen:333 - Streaming failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+Please retry in 25.172942255s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 25
+}
+]
+2026-04-29 23:45:00.786 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.008s
+2026-04-29 23:45:01.102 | ERROR    | backend.main:event_gen:333 - Streaming failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 58.926408382s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 58
+}
+]
+2026-04-29 23:45:01.161 | INFO     | backend.main:lifespan:85 - Server shutting down
+2026-04-29 23:45:08.220 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-29 23:45:08.827 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.016s
+2026-04-29 23:45:09.281 | INFO     | backend.main:log_requests:112 - GET /static/css/style.css - 200 - 0.399s
+2026-04-29 23:45:09.294 | INFO     | backend.main:log_requests:112 - GET /static/js/api.js - 200 - 0.048s
+2026-04-29 23:45:09.308 | INFO     | backend.main:log_requests:112 - GET /static/js/app.js - 200 - 0.060s
+2026-04-29 23:45:09.395 | INFO     | backend.main:log_requests:112 - GET /static/js/ui.js - 200 - 0.146s
+2026-04-29 23:45:09.499 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.000s
+2026-04-29 23:45:09.516 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.030s
+2026-04-29 23:45:14.756 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.254s
+2026-04-29 23:45:28.848 | ERROR    | backend.main:event_gen:333 - Streaming failed: table versions has 21 columns but 20 values were supplied
+2026-04-29 23:47:19.890 | INFO     | backend.main:lifespan:85 - Server shutting down
+2026-04-29 23:47:24.622 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-29 23:47:40.153 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.017s
+2026-04-29 23:47:40.194 | INFO     | backend.main:log_requests:112 - GET /static/js/api.js - 304 - 0.016s
+2026-04-29 23:47:40.212 | INFO     | backend.main:log_requests:112 - GET /static/js/ui.js - 304 - 0.031s
+2026-04-29 23:47:40.243 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.020s
+2026-04-29 23:47:46.334 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.007s
+2026-04-29 23:47:56.666 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.014s
+2026-04-29 23:52:47.242 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.004s
+2026-04-29 23:53:00.674 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.014s
+2026-04-30 00:06:47.839 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-30 00:06:51.824 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.023s
+2026-04-30 00:06:51.889 | INFO     | backend.main:log_requests:112 - GET /static/css/style.css - 304 - 0.031s
+2026-04-30 00:06:51.902 | INFO     | backend.main:log_requests:112 - GET /static/js/ui.js - 304 - 0.023s
+2026-04-30 00:06:51.905 | INFO     | backend.main:log_requests:112 - GET /static/js/app.js - 304 - 0.026s
+2026-04-30 00:06:51.913 | INFO     | backend.main:log_requests:112 - GET /static/js/api.js - 304 - 0.039s
+2026-04-30 00:06:52.010 | INFO     | backend.main:log_requests:112 - GET /history - 401 - 0.006s
+2026-04-30 00:06:52.021 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.001s
+2026-04-30 00:07:08.854 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 401 - 0.003s
+2026-04-30 00:11:35.192 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-30 00:11:59.120 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.002s
+2026-04-30 00:11:59.193 | INFO     | backend.main:log_requests:112 - GET /static/css/style.css - 304 - 0.018s
+2026-04-30 00:11:59.226 | INFO     | backend.main:log_requests:112 - GET /static/js/api.js - 304 - 0.049s
+2026-04-30 00:11:59.243 | INFO     | backend.main:log_requests:112 - GET /static/js/app.js - 304 - 0.053s
+2026-04-30 00:11:59.252 | INFO     | backend.main:log_requests:112 - GET /static/js/ui.js - 304 - 0.061s
+2026-04-30 00:11:59.332 | INFO     | backend.main:log_requests:112 - GET /history - 401 - 0.004s
+2026-04-30 00:11:59.351 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.007s
+2026-04-30 00:12:19.729 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 401 - 0.003s
+2026-04-30 00:12:56.496 | INFO     | backend.main:log_requests:112 - POST /register - 200 - 1.034s
+2026-04-30 00:12:57.690 | INFO     | backend.main:log_requests:112 - POST /token - 200 - 1.146s
+2026-04-30 00:12:57.733 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.019s
+2026-04-30 00:13:11.474 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.005s
+2026-04-30 00:13:25.775 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.029s
+2026-04-30 00:15:38.808 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.004s
+2026-04-30 00:15:38.915 | INFO     | backend.main:log_requests:112 - GET /static/css/style.css - 200 - 0.006s
+2026-04-30 00:15:38.933 | INFO     | backend.main:log_requests:112 - GET /static/js/api.js - 200 - 0.020s
+2026-04-30 00:15:38.942 | INFO     | backend.main:log_requests:112 - GET /static/js/app.js - 200 - 0.021s
+2026-04-30 00:15:38.944 | INFO     | backend.main:log_requests:112 - GET /static/js/ui.js - 200 - 0.024s
+2026-04-30 00:15:39.110 | INFO     | backend.main:log_requests:112 - GET /history - 401 - 0.002s
+2026-04-30 00:15:39.123 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.001s
+2026-04-30 00:16:26.295 | INFO     | backend.main:log_requests:112 - POST /register - 200 - 0.954s
+2026-04-30 00:16:27.396 | INFO     | backend.main:log_requests:112 - POST /token - 200 - 1.092s
+2026-04-30 00:16:27.473 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.025s
+2026-04-30 00:16:43.144 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.004s
+2026-04-30 00:16:47.650 | ERROR    | backend.main:event_gen:333 - Streaming failed: 503 This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
+2026-04-30 00:19:01.746 | INFO     | backend.main:lifespan:85 - Server shutting down
+2026-04-30 00:20:50.580 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.003s
+2026-04-30 00:21:20.592 | ERROR    | backend.main:event_gen:333 - Streaming failed: 504 Deadline Exceeded
+2026-04-30 08:28:06.571 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-30 08:28:53.113 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.014s
+2026-04-30 08:28:53.283 | INFO     | backend.main:log_requests:112 - GET /history - 401 - 0.001s
+2026-04-30 08:28:53.297 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.001s
+2026-04-30 08:29:27.894 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.004s
+2026-04-30 08:29:27.996 | INFO     | backend.main:log_requests:112 - GET /static/css/style.css - 200 - 0.025s
+2026-04-30 08:29:28.003 | INFO     | backend.main:log_requests:112 - GET /static/js/api.js - 200 - 0.023s
+2026-04-30 08:29:28.083 | INFO     | backend.main:log_requests:112 - GET /static/js/ui.js - 200 - 0.046s
+2026-04-30 08:29:28.099 | INFO     | backend.main:log_requests:112 - GET /static/js/app.js - 200 - 0.049s
+2026-04-30 08:29:28.605 | INFO     | backend.main:log_requests:112 - GET /history - 401 - 0.001s
+2026-04-30 08:29:28.650 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.002s
+2026-04-30 08:29:51.772 | INFO     | backend.main:log_requests:112 - POST /token - 200 - 1.599s
+2026-04-30 08:29:51.800 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.016s
+2026-04-30 08:29:59.062 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.006s
+2026-04-30 08:29:59.711 | ERROR    | backend.main:event_gen:333 - Streaming failed: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-04-30 08:32:56.708 | INFO     | backend.main:lifespan:85 - Server shutting down
+2026-04-30 08:33:01.536 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-30 08:34:10.924 | INFO     | backend.main:lifespan:85 - Server shutting down
+2026-04-30 08:34:18.783 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-30 08:34:41.923 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.009s
+2026-04-30 08:34:41.960 | INFO     | backend.main:log_requests:112 - GET /history - 401 - 0.000s
+2026-04-30 08:34:42.020 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.001s
+2026-04-30 08:34:53.340 | INFO     | backend.main:log_requests:112 - POST /generate - 401 - 0.002s
+2026-04-30 08:36:58.867 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.001s
+2026-04-30 08:36:58.891 | INFO     | backend.main:log_requests:112 - GET /static/css/style.css - 200 - 0.008s
+2026-04-30 08:36:58.895 | INFO     | backend.main:log_requests:112 - GET /static/js/api.js - 200 - 0.010s
+2026-04-30 08:36:58.905 | INFO     | backend.main:log_requests:112 - GET /static/js/ui.js - 200 - 0.005s
+2026-04-30 08:36:58.906 | INFO     | backend.main:log_requests:112 - GET /static/js/app.js - 200 - 0.005s
+2026-04-30 08:36:59.042 | INFO     | backend.main:log_requests:112 - GET /history - 401 - 0.001s
+2026-04-30 08:36:59.046 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.000s
+2026-04-30 08:37:10.835 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.000s
+2026-04-30 08:37:10.852 | INFO     | backend.main:log_requests:112 - GET /static/css/style.css - 200 - 0.005s
+2026-04-30 08:37:10.856 | INFO     | backend.main:log_requests:112 - GET /static/js/api.js - 200 - 0.007s
+2026-04-30 08:37:10.868 | INFO     | backend.main:log_requests:112 - GET /static/js/ui.js - 200 - 0.004s
+2026-04-30 08:37:10.871 | INFO     | backend.main:log_requests:112 - GET /static/js/app.js - 200 - 0.006s
+2026-04-30 08:37:10.883 | INFO     | backend.main:log_requests:112 - GET /history - 401 - 0.000s
+2026-04-30 08:37:10.893 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.000s
+2026-04-30 08:37:12.483 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.001s
+2026-04-30 08:37:12.501 | INFO     | backend.main:log_requests:112 - GET /static/css/style.css - 200 - 0.006s
+2026-04-30 08:37:12.502 | INFO     | backend.main:log_requests:112 - GET /static/js/api.js - 200 - 0.007s
+2026-04-30 08:37:12.505 | INFO     | backend.main:log_requests:112 - GET /static/js/app.js - 200 - 0.009s
+2026-04-30 08:37:12.508 | INFO     | backend.main:log_requests:112 - GET /static/js/ui.js - 200 - 0.011s
+2026-04-30 08:37:12.530 | INFO     | backend.main:log_requests:112 - GET /history - 401 - 0.000s
+2026-04-30 08:37:12.539 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.000s
+2026-04-30 08:37:13.771 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.001s
+2026-04-30 08:37:13.789 | INFO     | backend.main:log_requests:112 - GET /static/js/app.js - 200 - 0.004s
+2026-04-30 08:37:13.793 | INFO     | backend.main:log_requests:112 - GET /static/js/api.js - 200 - 0.009s
+2026-04-30 08:37:13.795 | INFO     | backend.main:log_requests:112 - GET /static/css/style.css - 200 - 0.011s
+2026-04-30 08:37:13.798 | INFO     | backend.main:log_requests:112 - GET /static/js/ui.js - 200 - 0.014s
+2026-04-30 08:37:13.835 | INFO     | backend.main:log_requests:112 - GET /history - 401 - 0.000s
+2026-04-30 08:37:13.848 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.002s
+2026-04-30 08:37:15.048 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.001s
+2026-04-30 08:37:15.068 | INFO     | backend.main:log_requests:112 - GET /static/js/ui.js - 200 - 0.004s
+2026-04-30 08:37:15.070 | INFO     | backend.main:log_requests:112 - GET /static/js/app.js - 200 - 0.006s
+2026-04-30 08:37:15.073 | INFO     | backend.main:log_requests:112 - GET /static/js/api.js - 200 - 0.009s
+2026-04-30 08:37:15.076 | INFO     | backend.main:log_requests:112 - GET /static/css/style.css - 200 - 0.012s
+2026-04-30 08:37:15.097 | INFO     | backend.main:log_requests:112 - GET /history - 401 - 0.001s
+2026-04-30 08:37:15.106 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.001s
+2026-04-30 08:37:40.032 | INFO     | backend.main:log_requests:112 - POST /token - 200 - 0.321s
+2026-04-30 08:37:40.047 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.011s
+2026-04-30 08:37:47.268 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.003s
+2026-04-30 08:37:47.581 | ERROR    | backend.main:event_gen:333 - Streaming failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 12.377097575s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 12
+}
+]
+2026-04-30 08:39:16.704 | INFO     | backend.main:lifespan:85 - Server shutting down
+2026-04-30 08:39:20.654 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-30 08:39:22.734 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-30 08:39:43.640 | INFO     | backend.main:lifespan:85 - Server shutting down
+2026-04-30 08:40:19.202 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-30 08:40:23.799 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.005s
+2026-04-30 08:40:23.912 | INFO     | backend.main:log_requests:112 - GET /static/css/style.css - 304 - 0.009s
+2026-04-30 08:40:23.917 | INFO     | backend.main:log_requests:112 - GET /static/js/ui.js - 304 - 0.009s
+2026-04-30 08:40:23.922 | INFO     | backend.main:log_requests:112 - GET /static/js/app.js - 200 - 0.012s
+2026-04-30 08:40:23.923 | INFO     | backend.main:log_requests:112 - GET /static/js/api.js - 304 - 0.017s
+2026-04-30 08:40:23.938 | INFO     | backend.main:log_requests:112 - GET /history - 401 - 0.004s
+2026-04-30 08:40:23.994 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.001s
+2026-04-30 08:40:32.333 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 401 - 0.002s
+2026-04-30 08:40:55.705 | INFO     | backend.main:log_requests:112 - POST /token - 200 - 0.331s
+2026-04-30 08:40:55.715 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.006s
+2026-04-30 08:41:09.767 | INFO     | backend.main:log_requests:112 - POST /register - 400 - 0.007s
+2026-04-30 08:41:19.137 | INFO     | backend.main:log_requests:112 - POST /register - 200 - 0.332s
+2026-04-30 08:41:19.453 | INFO     | backend.main:log_requests:112 - POST /token - 200 - 0.312s
+2026-04-30 08:41:19.462 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.005s
+2026-04-30 08:41:36.257 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.001s
+2026-04-30 08:41:36.408 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.005s
+2026-04-30 08:41:36.467 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.001s
+2026-04-30 08:42:04.067 | INFO     | backend.main:log_requests:112 - POST /register - 200 - 0.281s
+2026-04-30 08:42:04.363 | INFO     | backend.main:log_requests:112 - POST /token - 200 - 0.290s
+2026-04-30 08:42:04.373 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.005s
+2026-04-30 08:42:25.006 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.005s
+2026-04-30 08:42:32.980 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.009s
+2026-04-30 08:51:31.968 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-30 08:51:41.339 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.006s
+2026-04-30 08:51:41.460 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.008s
+2026-04-30 08:51:41.566 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.001s
+2026-04-30 08:51:52.580 | INFO     | backend.main:log_requests:112 - POST /token - 200 - 0.374s
+2026-04-30 08:51:52.591 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.006s
+2026-04-30 08:51:57.619 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.004s
+2026-04-30 08:52:14.591 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.010s
+2026-04-30 08:53:50.917 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.005s
+2026-04-30 08:54:10.150 | ERROR    | backend.main:event_gen:333 - Streaming failed: Expecting ',' delimiter: line 35 column 1 (char 3790)
+2026-04-30 08:54:21.593 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.003s
+2026-04-30 08:54:42.509 | ERROR    | backend.main:event_gen:333 - Streaming failed: Unterminated string starting at: line 40 column 20 (char 3986)
+2026-04-30 08:54:56.646 | INFO     | backend.main:lifespan:85 - Server shutting down
+2026-04-30 08:55:05.939 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-30 08:55:09.651 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.005s
+2026-04-30 08:55:09.824 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.008s
+2026-04-30 08:55:09.852 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.000s
+2026-04-30 08:55:31.955 | INFO     | backend.main:log_requests:112 - POST /register - 200 - 0.387s
+2026-04-30 08:55:32.345 | INFO     | backend.main:log_requests:112 - POST /token - 200 - 0.384s
+2026-04-30 08:55:32.355 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.005s
+2026-04-30 08:55:52.441 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.004s
+2026-04-30 08:56:13.212 | ERROR    | backend.main:event_gen:333 - Streaming failed: Unterminated string starting at: line 34 column 15 (char 3205)
+2026-04-30 08:59:03.466 | INFO     | backend.main:lifespan:85 - Server shutting down
+2026-04-30 08:59:07.277 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-30 08:59:18.111 | INFO     | backend.main:lifespan:85 - Server shutting down
+2026-04-30 08:59:24.589 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-30 08:59:34.403 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.005s
+2026-04-30 08:59:34.588 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.009s
+2026-04-30 08:59:34.596 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.000s
+2026-04-30 08:59:42.949 | INFO     | backend.main:log_requests:112 - POST /token - 200 - 0.448s
+2026-04-30 08:59:42.960 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.005s
+2026-04-30 08:59:49.513 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.004s
+2026-04-30 09:00:08.618 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.011s
+2026-04-30 09:04:22.324 | INFO     | backend.main:lifespan:85 - Server shutting down
+2026-04-30 09:04:26.503 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-30 09:13:01.659 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.009s
+2026-04-30 09:13:02.006 | ERROR    | backend.main:event_gen:333 - Streaming failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash
+Please retry in 57.965540487s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, retry_delay {
+  seconds: 57
+}
+]
+2026-04-30 09:14:24.787 | INFO     | backend.main:lifespan:85 - Server shutting down
+2026-04-30 09:14:28.764 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-30 09:16:13.268 | INFO     | backend.main:lifespan:85 - Server shutting down
+2026-04-30 09:16:15.279 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-30 09:16:17.183 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-30 09:26:36.624 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.082s
+2026-04-30 09:26:36.646 | INFO     | backend.main:log_requests:112 - GET /history - 401 - 0.004s
+2026-04-30 09:27:30.336 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 401 - 0.002s
+2026-04-30 09:27:36.670 | INFO     | backend.main:log_requests:112 - POST /token - 200 - 0.380s
+2026-04-30 09:27:36.680 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.007s
+2026-04-30 09:27:43.093 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.000s
+2026-04-30 09:27:43.116 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.006s
+2026-04-30 09:27:49.292 | INFO     | backend.main:log_requests:112 - POST /token - 200 - 0.345s
+2026-04-30 09:27:49.301 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.005s
+2026-04-30 09:28:25.487 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.004s
+2026-04-30 09:28:25.806 | ERROR    | backend.main:event_gen:333 - Streaming failed: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2026-04-30 09:29:40.516 | INFO     | backend.main:lifespan:85 - Server shutting down
+2026-04-30 09:29:47.208 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-30 09:31:22.414 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.005s
+2026-04-30 09:31:22.467 | INFO     | backend.main:log_requests:112 - GET /static/css/style.css - 304 - 0.009s
+2026-04-30 09:31:22.471 | INFO     | backend.main:log_requests:112 - GET /static/js/api.js - 200 - 0.011s
+2026-04-30 09:31:22.472 | INFO     | backend.main:log_requests:112 - GET /static/js/ui.js - 304 - 0.010s
+2026-04-30 09:31:22.474 | INFO     | backend.main:log_requests:112 - GET /static/js/app.js - 200 - 0.010s
+2026-04-30 09:31:22.613 | INFO     | backend.main:log_requests:112 - GET /history - 401 - 0.004s
+2026-04-30 09:31:22.619 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.001s
+2026-04-30 09:32:04.621 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 401 - 0.004s
+2026-04-30 09:32:25.579 | INFO     | backend.main:log_requests:112 - POST /token - 401 - 0.011s
+2026-04-30 09:32:34.569 | INFO     | backend.main:log_requests:112 - POST /register - 200 - 1.004s
+2026-04-30 09:32:35.493 | INFO     | backend.main:log_requests:112 - POST /token - 200 - 0.909s
+2026-04-30 09:32:35.553 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.028s
+2026-04-30 09:33:03.388 | INFO     | backend.main:log_requests:112 - POST /token - 401 - 0.014s
+2026-04-30 09:33:17.376 | INFO     | backend.main:log_requests:112 - POST /token - 200 - 0.901s
+2026-04-30 09:33:17.403 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.010s
+2026-04-30 09:33:27.762 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.007s
+2026-04-30 09:33:28.755 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 09:34:28.788 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.007s
+2026-04-30 09:34:28.976 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 09:35:29.005 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.005s
+2026-04-30 09:35:29.166 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 09:37:25.253 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.003s
+2026-04-30 09:37:25.293 | INFO     | backend.main:log_requests:112 - GET /static/js/api.js - 304 - 0.005s
+2026-04-30 09:37:25.297 | INFO     | backend.main:log_requests:112 - GET /static/js/app.js - 304 - 0.007s
+2026-04-30 09:37:25.355 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.007s
+2026-04-30 09:37:25.359 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.001s
+2026-04-30 09:37:52.483 | INFO     | backend.main:lifespan:85 - Server shutting down
+2026-04-30 09:38:02.213 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-30 09:38:12.881 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.005s
+2026-04-30 09:38:13.015 | INFO     | backend.main:log_requests:112 - GET /static/js/api.js - 200 - 0.013s
+2026-04-30 09:38:13.019 | INFO     | backend.main:log_requests:112 - GET /static/js/ui.js - 304 - 0.011s
+2026-04-30 09:38:13.024 | INFO     | backend.main:log_requests:112 - GET /static/js/app.js - 200 - 0.014s
+2026-04-30 09:38:13.051 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.014s
+2026-04-30 09:38:13.127 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.001s
+2026-04-30 09:38:22.058 | INFO     | backend.main:log_requests:112 - POST /token - 200 - 0.422s
+2026-04-30 09:38:22.068 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.006s
+2026-04-30 09:38:51.214 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.004s
+2026-04-30 09:38:51.650 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 09:39:51.665 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.003s
+2026-04-30 09:39:51.860 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 09:40:51.880 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.002s
+2026-04-30 09:40:52.077 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 09:41:52.568 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.001s
+2026-04-30 09:41:52.811 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 09:42:33.810 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.001s
+2026-04-30 09:42:33.853 | INFO     | backend.main:log_requests:112 - GET /static/js/api.js - 304 - 0.005s
+2026-04-30 09:42:33.857 | INFO     | backend.main:log_requests:112 - GET /static/js/app.js - 304 - 0.008s
+2026-04-30 09:42:33.875 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.008s
+2026-04-30 09:42:33.930 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.001s
+2026-04-30 09:42:53.659 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.007s
+2026-04-30 09:42:53.858 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 09:43:54.582 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.003s
+2026-04-30 09:43:54.786 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 09:44:55.571 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.003s
+2026-04-30 09:44:55.735 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 09:45:49.524 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.001s
+2026-04-30 09:45:49.542 | INFO     | backend.main:log_requests:112 - GET /static/css/style.css - 304 - 0.006s
+2026-04-30 09:45:49.545 | INFO     | backend.main:log_requests:112 - GET /static/js/api.js - 304 - 0.008s
+2026-04-30 09:45:49.547 | INFO     | backend.main:log_requests:112 - GET /static/js/app.js - 304 - 0.009s
+2026-04-30 09:45:49.564 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.008s
+2026-04-30 09:45:59.632 | INFO     | backend.main:log_requests:112 - POST /token - 200 - 0.376s
+2026-04-30 09:45:59.644 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.007s
+2026-04-30 09:46:04.804 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.003s
+2026-04-30 09:46:05.016 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 09:46:42.585 | INFO     | backend.main:lifespan:85 - Server shutting down
+2026-04-30 09:46:50.523 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-30 09:46:53.574 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.006s
+2026-04-30 09:46:53.709 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.009s
+2026-04-30 09:46:53.774 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.000s
+2026-04-30 09:47:02.397 | INFO     | backend.main:log_requests:112 - POST /token - 200 - 0.349s
+2026-04-30 09:47:02.408 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.007s
+2026-04-30 09:47:11.409 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.004s
+2026-04-30 09:47:11.690 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 09:48:11.707 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.005s
+2026-04-30 09:48:11.849 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 09:48:39.444 | INFO     | backend.main:lifespan:85 - Server shutting down
+2026-04-30 09:49:01.123 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-30 09:49:05.615 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.005s
+2026-04-30 09:49:05.711 | INFO     | backend.main:log_requests:112 - GET /static/js/api.js - 304 - 0.006s
+2026-04-30 09:49:05.716 | INFO     | backend.main:log_requests:112 - GET /static/js/app.js - 304 - 0.008s
+2026-04-30 09:49:05.783 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.010s
+2026-04-30 09:49:05.787 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.000s
+2026-04-30 09:49:26.779 | INFO     | backend.main:log_requests:112 - POST /register - 200 - 0.380s
+2026-04-30 09:49:27.218 | INFO     | backend.main:log_requests:112 - POST /token - 200 - 0.434s
+2026-04-30 09:49:27.229 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.006s
+2026-04-30 09:49:59.264 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.020s
+2026-04-30 09:49:59.559 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 09:50:06.433 | INFO     | backend.main:log_requests:112 - POST /analyze - 503 - 4.631s
+2026-04-30 09:51:00.572 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.005s
+2026-04-30 09:51:00.731 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 09:52:00.743 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.004s
+2026-04-30 09:52:00.921 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 10:03:06.224 | INFO     | backend.main:lifespan:85 - Server shutting down
+2026-04-30 18:14:49.714 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-30 18:14:55.809 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.042s
+2026-04-30 18:14:55.934 | INFO     | backend.main:log_requests:112 - GET /static/css/style.css - 304 - 0.032s
+2026-04-30 18:14:55.947 | INFO     | backend.main:log_requests:112 - GET /static/js/api.js - 304 - 0.032s
+2026-04-30 18:14:55.953 | INFO     | backend.main:log_requests:112 - GET /static/js/ui.js - 304 - 0.027s
+2026-04-30 18:14:55.959 | INFO     | backend.main:log_requests:112 - GET /static/js/app.js - 304 - 0.032s
+2026-04-30 18:14:56.133 | INFO     | backend.main:log_requests:112 - GET /history - 401 - 0.059s
+2026-04-30 18:14:56.137 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.003s
+2026-04-30 18:15:22.344 | INFO     | backend.main:log_requests:112 - POST /register - 200 - 0.486s
+2026-04-30 18:15:22.711 | INFO     | backend.main:log_requests:112 - POST /token - 200 - 0.360s
+2026-04-30 18:15:22.732 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.014s
+2026-04-30 18:16:04.760 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.007s
+2026-04-30 18:16:05.381 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 18:17:05.404 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.005s
+2026-04-30 18:17:05.580 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 18:17:13.948 | INFO     | backend.main:log_requests:112 - POST /analyze - 503 - 6.605s
+2026-04-30 18:18:06.395 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.005s
+2026-04-30 18:18:06.550 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 18:18:39.438 | INFO     | backend.main:lifespan:85 - Server shutting down
+2026-04-30 18:22:23.620 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-30 18:38:50.133 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-30 18:39:01.051 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.005s
+2026-04-30 18:39:01.309 | INFO     | backend.main:log_requests:112 - GET /history - 401 - 0.025s
+2026-04-30 18:39:01.312 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.002s
+2026-04-30 18:39:09.899 | INFO     | backend.main:log_requests:112 - POST /token - 200 - 0.411s
+2026-04-30 18:39:09.920 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.015s
+2026-04-30 18:40:15.526 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.003s
+2026-04-30 18:40:15.946 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 18:41:15.967 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.004s
+2026-04-30 18:41:16.103 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 18:42:16.381 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.003s
+2026-04-30 18:42:16.523 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 18:43:17.386 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.003s
+2026-04-30 18:43:17.516 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 18:44:18.391 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.003s
+2026-04-30 18:44:18.513 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 18:45:04.240 | INFO     | backend.main:lifespan:85 - Server shutting down
+2026-04-30 18:45:12.432 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-30 18:45:23.360 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.003s
+2026-04-30 18:45:23.492 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 18:46:19.114 | INFO     | backend.main:lifespan:85 - Server shutting down
+2026-04-30 18:46:24.392 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.001s
+2026-04-30 18:46:24.526 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 18:46:34.633 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-30 18:46:42.465 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.001s
+2026-04-30 18:46:42.676 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.008s
+2026-04-30 18:46:42.689 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.001s
+2026-04-30 18:46:48.833 | INFO     | backend.main:log_requests:112 - POST /token - 200 - 0.361s
+2026-04-30 18:46:48.843 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.005s
+2026-04-30 18:47:36.033 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.003s
+2026-04-30 18:47:36.205 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 18:48:36.386 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.004s
+2026-04-30 18:48:36.526 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 18:49:37.395 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.003s
+2026-04-30 18:49:37.524 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 18:50:38.387 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.004s
+2026-04-30 18:50:38.521 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 18:51:39.386 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.003s
+2026-04-30 18:51:39.600 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 18:52:40.385 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.005s
+2026-04-30 18:52:40.552 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 18:53:41.387 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.003s
+2026-04-30 18:53:41.544 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 18:54:42.386 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.004s
+2026-04-30 18:54:42.538 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 18:57:45.477 | INFO     | backend.main:lifespan:85 - Server shutting down
+2026-04-30 21:51:47.051 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-04-30 21:51:52.688 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.024s
+2026-04-30 21:51:52.768 | INFO     | backend.main:log_requests:112 - GET /static/css/style.css - 304 - 0.014s
+2026-04-30 21:51:52.772 | INFO     | backend.main:log_requests:112 - GET /static/js/ui.js - 304 - 0.015s
+2026-04-30 21:51:52.773 | INFO     | backend.main:log_requests:112 - GET /static/js/api.js - 304 - 0.017s
+2026-04-30 21:51:52.780 | INFO     | backend.main:log_requests:112 - GET /static/js/app.js - 304 - 0.016s
+2026-04-30 21:51:52.882 | INFO     | backend.main:log_requests:112 - GET /history - 401 - 0.008s
+2026-04-30 21:51:52.902 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.001s
+2026-04-30 21:52:07.856 | INFO     | backend.main:log_requests:112 - POST /token - 200 - 0.538s
+2026-04-30 21:52:07.872 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.009s
+2026-04-30 21:52:12.447 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.004s
+2026-04-30 21:52:13.028 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 21:53:13.044 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.004s
+2026-04-30 21:53:13.235 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-04-30 21:53:36.333 | INFO     | backend.main:lifespan:85 - Server shutting down
+2026-05-01 00:26:59.268 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-05-01 00:27:12.559 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.010s
+2026-05-01 00:27:12.908 | INFO     | backend.main:log_requests:112 - GET /static/css/style.css - 304 - 0.015s
+2026-05-01 00:27:12.913 | INFO     | backend.main:log_requests:112 - GET /static/js/api.js - 304 - 0.018s
+2026-05-01 00:27:12.926 | INFO     | backend.main:log_requests:112 - GET /static/js/app.js - 304 - 0.019s
+2026-05-01 00:27:12.929 | INFO     | backend.main:log_requests:112 - GET /static/js/ui.js - 304 - 0.021s
+2026-05-01 00:27:13.056 | INFO     | backend.main:log_requests:112 - GET /history - 401 - 0.021s
+2026-05-01 00:27:13.061 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.003s
+2026-05-01 00:28:02.599 | INFO     | backend.main:log_requests:112 - POST /register - 400 - 0.016s
+2026-05-01 00:28:18.058 | INFO     | backend.main:log_requests:112 - POST /register - 200 - 0.964s
+2026-05-01 00:28:19.134 | INFO     | backend.main:log_requests:112 - POST /token - 200 - 1.067s
+2026-05-01 00:28:19.144 | INFO     | backend.main:log_requests:112 - POST /register - 400 - 1.055s
+2026-05-01 00:28:19.179 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.024s
+2026-05-01 00:31:18.610 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.007s
+2026-05-01 00:31:20.167 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-05-01 00:32:20.190 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.006s
+2026-05-01 00:32:20.384 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-05-01 00:33:26.126 | INFO     | backend.main:lifespan:85 - Server shutting down
+2026-05-01 11:08:58.792 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-05-01 11:09:04.905 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.036s
+2026-05-01 11:09:04.975 | INFO     | backend.main:log_requests:112 - GET /static/css/style.css - 304 - 0.032s
+2026-05-01 11:09:04.987 | INFO     | backend.main:log_requests:112 - GET /static/js/api.js - 304 - 0.043s
+2026-05-01 11:09:04.992 | INFO     | backend.main:log_requests:112 - GET /static/js/ui.js - 304 - 0.049s
+2026-05-01 11:09:05.015 | INFO     | backend.main:log_requests:112 - GET /static/js/app.js - 304 - 0.071s
+2026-05-01 11:09:05.086 | INFO     | backend.main:log_requests:112 - GET /history - 401 - 0.001s
+2026-05-01 11:09:05.099 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.001s
+2026-05-01 11:09:12.107 | INFO     | backend.main:log_requests:112 - POST /token - 200 - 0.502s
+2026-05-01 11:09:12.124 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.012s
+2026-05-01 11:09:20.171 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.014s
+2026-05-01 11:09:20.957 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-05-01 11:10:20.982 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.005s
+2026-05-01 11:10:21.244 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-05-01 11:11:21.267 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.008s
+2026-05-01 11:11:21.759 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-05-01 11:12:21.779 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.004s
+2026-05-01 11:12:21.989 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-05-01 11:25:23.751 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 401 - 0.004s
+2026-06-27 09:39:15.224 | INFO     | backend.main:lifespan:83 - Server started — database ready
+2026-06-27 09:40:24.391 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.090s
+2026-06-27 09:40:24.424 | INFO     | backend.main:log_requests:112 - GET /static/css/style.css - 200 - 0.013s
+2026-06-27 09:40:24.426 | INFO     | backend.main:log_requests:112 - GET /static/js/api.js - 200 - 0.013s
+2026-06-27 09:40:24.466 | INFO     | backend.main:log_requests:112 - GET /static/js/ui.js - 200 - 0.004s
+2026-06-27 09:40:24.509 | INFO     | backend.main:log_requests:112 - GET /static/js/app.js - 200 - 0.006s
+2026-06-27 09:40:24.754 | INFO     | backend.main:log_requests:112 - GET /history - 401 - 0.055s
+2026-06-27 09:40:24.769 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.011s
+2026-06-27 09:45:46.764 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.004s
+2026-06-27 09:45:46.832 | INFO     | backend.main:log_requests:112 - GET /static/css/style.css - 200 - 0.012s
+2026-06-27 09:45:46.843 | INFO     | backend.main:log_requests:112 - GET /static/js/api.js - 200 - 0.022s
+2026-06-27 09:45:46.896 | INFO     | backend.main:log_requests:112 - GET /static/js/ui.js - 200 - 0.037s
+2026-06-27 09:45:46.910 | INFO     | backend.main:log_requests:112 - GET /static/js/app.js - 200 - 0.039s
+2026-06-27 09:45:47.168 | INFO     | backend.main:log_requests:112 - GET /history - 401 - 0.002s
+2026-06-27 09:45:47.609 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.002s
+2026-06-27 09:50:14.086 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 401 - 0.003s
+2026-06-27 09:51:35.107 | INFO     | backend.main:log_requests:112 - POST /register - 400 - 0.022s
+2026-06-27 09:51:56.537 | INFO     | backend.main:log_requests:112 - POST /token - 401 - 1.051s
+2026-06-27 09:52:11.821 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.006s
+2026-06-27 09:52:11.994 | INFO     | backend.main:log_requests:112 - GET /history - 401 - 0.003s
+2026-06-27 09:52:24.068 | INFO     | backend.main:log_requests:112 - POST /register - 400 - 0.032s
+2026-06-27 09:52:31.845 | INFO     | backend.main:log_requests:112 - POST /register - 200 - 1.078s
+2026-06-27 09:52:32.984 | INFO     | backend.main:log_requests:112 - POST /token - 200 - 1.119s
+2026-06-27 09:52:33.012 | INFO     | backend.main:log_requests:112 - POST /register - 400 - 0.023s
+2026-06-27 09:52:33.026 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.029s
+2026-06-27 09:52:53.522 | INFO     | backend.main:log_requests:112 - POST /register - 400 - 0.015s
+2026-06-27 09:53:13.948 | INFO     | backend.main:log_requests:112 - POST /token - 401 - 0.859s
+2026-06-27 09:54:12.244 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 401 - 0.003s
+2026-06-27 09:55:40.519 | INFO     | backend.main:log_requests:112 - POST /token - 401 - 0.011s
+2026-06-27 09:56:05.924 | INFO     | backend.main:log_requests:112 - POST /register - 200 - 0.993s
+2026-06-27 09:56:07.433 | INFO     | backend.main:log_requests:112 - POST /token - 200 - 1.432s
+2026-06-27 09:56:07.602 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.020s
+2026-06-27 09:56:24.065 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.008s
+2026-06-27 09:56:24.605 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-06-27 09:57:25.570 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.007s
+2026-06-27 09:57:25.821 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-06-27 09:58:26.540 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.005s
+2026-06-27 09:58:26.772 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-06-27 09:58:35.279 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.004s
+2026-06-27 09:58:35.498 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-06-27 09:59:27.535 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.004s
+2026-06-27 09:59:27.777 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-06-27 09:59:35.543 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.002s
+2026-06-27 09:59:35.764 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-06-27 10:00:28.542 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.003s
+2026-06-27 10:00:28.755 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-06-27 10:00:36.128 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.002s
+2026-06-27 10:00:36.352 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-06-27 10:01:29.536 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.005s
+2026-06-27 10:01:29.752 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-06-27 10:01:36.712 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.003s
+2026-06-27 10:01:36.925 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-06-27 10:02:30.540 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.002s
+2026-06-27 10:02:30.758 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-06-27 10:02:36.965 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.002s
+2026-06-27 10:02:37.174 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-06-27 10:03:31.546 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.003s
+2026-06-27 10:03:31.765 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-06-27 10:03:37.558 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.006s
+2026-06-27 10:03:37.766 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-06-27 10:04:32.566 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.005s
+2026-06-27 10:04:32.794 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-06-27 10:04:37.799 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.008s
+2026-06-27 10:04:38.028 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-06-27 10:05:03.000 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.003s
+2026-06-27 10:05:03.127 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.013s
+2026-06-27 10:05:33.552 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.006s
+2026-06-27 10:05:33.786 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-06-27 10:06:24.189 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.005s
+2026-06-27 10:06:24.419 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-06-27 10:06:34.552 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.005s
+2026-06-27 10:06:34.770 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-06-27 10:06:59.752 | INFO     | backend.main:log_requests:112 - POST /register - 400 - 0.012s
+2026-06-27 10:07:06.512 | INFO     | backend.main:log_requests:112 - POST /token - 401 - 0.742s
+2026-06-27 10:07:34.557 | INFO     | backend.main:log_requests:112 - POST /register - 200 - 0.753s
+2026-06-27 10:07:35.437 | INFO     | backend.main:log_requests:112 - POST /token - 200 - 0.861s
+2026-06-27 10:07:35.471 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.013s
+2026-06-27 10:07:35.547 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 401 - 0.004s
+2026-06-27 10:08:45.828 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.007s
+2026-06-27 10:08:46.070 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-06-27 10:09:46.441 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.017s
+2026-06-27 10:09:46.680 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-06-27 10:10:47.034 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.006s
+2026-06-27 10:10:47.278 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-06-27 10:11:47.628 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.006s
+2026-06-27 10:11:47.854 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-06-27 10:12:40.209 | INFO     | backend.main:log_requests:112 - GET /docs - 200 - 0.004s
+2026-06-27 10:12:41.234 | INFO     | backend.main:log_requests:112 - GET /openapi.json - 200 - 0.177s
+2026-06-27 10:12:47.892 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.005s
+2026-06-27 10:12:48.190 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-06-27 10:13:09.900 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.008s
+2026-06-27 10:13:10.031 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.025s
+2026-06-27 10:13:32.353 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 200 - 0.006s
+2026-06-27 10:13:32.612 | ERROR    | backend.main:event_gen:333 - Streaming failed: QUOTA_EXCEEDED:60:You've hit the Gemini API free-tier rate limit. Please wait 60 seconds and try again.
+2026-06-27 10:13:48.218 | INFO     | backend.main:log_requests:112 - POST /generate/stream - 401 - 0.005s
+2026-06-27 10:14:13.592 | INFO     | backend.main:log_requests:112 - POST /token - 200 - 0.963s
+2026-06-27 10:14:13.627 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.017s
+2026-06-27 10:14:26.063 | INFO     | backend.main:log_requests:112 - GET /openapi.json - 200 - 0.002s
+2026-06-27 10:14:36.564 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.001s
+2026-06-27 10:14:36.626 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.011s
+2026-06-27 10:15:05.602 | INFO     | backend.main:log_requests:112 - POST /token - 401 - 0.013s
+2026-06-27 10:15:43.663 | INFO     | backend.main:log_requests:112 - POST /register - 400 - 0.011s
+2026-06-27 10:15:51.947 | INFO     | backend.main:log_requests:112 - POST /token - 401 - 0.992s
+2026-06-27 10:16:12.659 | INFO     | backend.main:log_requests:112 - GET / - 200 - 0.001s
+2026-06-27 10:16:13.081 | INFO     | backend.main:log_requests:112 - GET /history - 200 - 0.029s
+2026-06-27 10:16:13.086 | INFO     | backend.main:log_requests:112 - GET /favicon.ico - 404 - 0.002s
